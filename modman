@@ -1,0 +1,6 @@
+app/code/local/LCB/UsageStory                                  app/code/local/LCB/UsageStory
+app/etc/modules/LCB_UsageStory.xml                             app/etc/modules/LCB_UsageStory.xml
+app/design/adminhtml/default/default/layout/lcb_usagestory.xml app/design/adminhtml/default/default/layout/lcb_usagestory.xml
+app/design/frontend/base/default/layout/lcb_usagestory.xml     app/design/frontend/base/default/layout/lcb_usagestory.xml
+app/design/frontend/base/default/template/usagestory           app/design/frontend/base/default/template/usagestory
+app/etc/modules/LCB_UsageStory.xml                             app/etc/modules/LCB_UsageStory.xml

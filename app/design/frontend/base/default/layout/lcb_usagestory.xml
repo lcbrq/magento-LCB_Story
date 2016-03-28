@@ -1,0 +1,24 @@
+<?xml version="1.0"?>   
+<layout version="0.1.0">   
+    <usagestory_index_index>   
+        <reference name="root">   
+            <action method="setTemplate">
+                <template>page/1column.phtml</template>
+            </action>   
+        </reference>   
+        <reference name="content">   
+            <block type="usagestory/index" name="usagestory_index" template="usagestory/index.phtml"/>   
+        </reference>   
+    </usagestory_index_index>
+    <usagestory_index_story>   
+        <reference name="root">   
+            <action method="setTemplate">
+                <template>page/1column.phtml</template>
+            </action>   
+        </reference>   
+        <reference name="content">   
+            <block type="usagestory/index" name="usagestory_single" template="usagestory/single.phtml"/>   
+        </reference>   
+    </usagestory_index_story>   
+</layout>   
+	
